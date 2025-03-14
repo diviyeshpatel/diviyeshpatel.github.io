@@ -1,7 +1,5 @@
 ---
 layout: home
-title: 
-permalink: /
 ---
 
 Hi there 👋
