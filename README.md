@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 Hi there 👋
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
