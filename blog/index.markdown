@@ -7,4 +7,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Blog to foster knowledge sharing on the open web and reflect my dedication to both web advancement and community contribution, all while steering digital landscape towards a future-proof and user-centric direction.
+Revolutionising the world we live in, future proofing is what I am doing…
+
+Foster knowledge sharing on the open web & reflect my dedication to both web advancement and community contribution, all while steering digital landscape towards a future-proof and user-centric direction.
