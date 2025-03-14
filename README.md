@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 Hi there 👋
