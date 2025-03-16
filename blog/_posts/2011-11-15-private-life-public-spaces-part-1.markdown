@@ -2,7 +2,7 @@
 layout: post
 title:  "Private Life, Public Spaces (Part 1)"
 date:   2011-11-15 09:00:00 +0000
-categories: Reviews
+categories: reviews
 author: Diviyesh Patel
 ---
 
