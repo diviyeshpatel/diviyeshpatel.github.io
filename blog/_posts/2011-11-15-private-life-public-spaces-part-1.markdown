@@ -3,6 +3,7 @@ layout: post
 title:  "Private Life, Public Spaces (Part 1)"
 date:   2011-11-15 09:00:00 +0000
 categories: Reviews
+author: Diviyesh Patel
 ---
 
 So here I am a year from being a graduate student at Teesside University. I studied a bachelors (BA) honors (Hons) in Graphic Design. My specialism was in Typography. How I actually got to this stage was an incredibly long cycle of studies.
