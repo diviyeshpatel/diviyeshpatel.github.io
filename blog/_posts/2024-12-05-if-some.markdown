@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "If some…"
+date:   2024-12-05 06:11:00 +0000
+categories: profession, reviews, theories
+author: Diviyesh Patel
+---
+
+…things are restricted with a system, then create a new database or entry fields for more viable solutions.
+
+…things are planned to be restricted, then design and plan for less options.
+
+…or all things fail, revert back to the last working solution to keep things undisrupted.
+
+…people are misusing a feature, then question if it was over-engineered or something missing?
+
+…people regular scope development tasks to lean to one side, then be sceptical about it – think whether it needs to be displayed after a page reload.
+
+…people think they’re always right in their decision making, then allow it to validate or highlight their mistake by results.
+
+…people are doing tasks outside their role, should it be deemed appropriate given there are others professionals available for the task?
+
+…people find the shortcut is the answer, then be sceptical about it – life isn’t always about shortcuts nor is it meant to be easy!
+
+…people have any concerns, raised them with the relevant team to investigate and resolve.
+
+…people are in a disagreement with the agreement, then hold them accountable to rectify the issue.
