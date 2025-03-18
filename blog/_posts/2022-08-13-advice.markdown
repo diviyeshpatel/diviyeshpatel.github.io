@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Advice"
+date:   2022-08-13 10:17:00 +0000
+categories: planning, reviews, theories
+author: Diviyesh Patel
+---
+
+How do you manage it?
+
+If in doubt, do you cross reference the advice to check if it’s correct?
+
+Are you the type that will go beyond and give advice to others?
+
+Could you potentially persuade people within reasons to change their minds?
+
+Would you give a mini task that will benefit a persons understanding? E.g. Go read something…
+
+It may just lead to improvements over a pyramid scheme.
+
+Do you serve the answer on a plate?
+
+Do you learn anything from it or just repeat what’s being advised?
+
+Can you think for yourself or does someone need to instigate it to make you think further?
+
+Now let’s reverse this…
+
+Splitting a team into teams – some unbalanced.
+
+Some skilled, some partially skilled, some new, some old.
+
+When teams think differently – it could be ground breaking or complicated.
+
+Some systems are just harder then others due to its nature of legacy technologies.
+
+Some systems have multiple dependencies on services to separate logic out, but long run creating additional work, spending more time on abstraction.
+
+How about the ignorance?
+
+Teams focus in many different directions, ignoring the underlying core problem.
+
+Avoiding conflicts of interests.
+
+Avoiding being told what to do?
+
+Avoiding what’s right from wrong, just to do their way.
+
+When seeing this behaviour for far to long and often.
+
+Question to you…
+
+How do you manage it?
+
+Treat them the same way they treat you?
+
+Or be different, continue to give advice and let failures happen to prove a point?
+
+If fails either way, you’ve learnt something new!
+
+Finally choose the easy way out or tackle the challenge head on?
+
+One advice, simple and clear.
+
+Do question, do validate, do cross reference, do assurance with reasons and include facts.
+
+Aim of the game, make it super clear.
